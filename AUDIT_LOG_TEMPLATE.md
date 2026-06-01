@@ -99,3 +99,40 @@ AUDIT_ENTRY {
   "firmado_por": "Curador",
   "aprobado_por": "Custodio"
 }
+
+---
+
+## SESSION_20260601_002
+
+```json
+{
+  "session_id": "SESSION_20260601_002",
+  "timestamp": "2026-06-01T02:00:00-06:00",
+  "corpus_version": "1.1.0",
+  "nodo": "Curador",
+  "tipo_mutacion": "NEW_FACT",
+  "canon_type_pre": null,
+  "canon_type_post": "HARD_CANON",
+  "contenido": "Capítulos 07, 08 y 09 generados y aprobados. 5 mercados abiertos, geopolítica tripartita, 4 casos ejecutables.",
+  "veredicto": "CANON",
+  "firmado_por": "Curador",
+  "aprobado_por": "Custodio"
+}
+
+---
+
+## SESSION_20260601_002
+
+{
+  "session_id": "SESSION_20260601_002",
+  "timestamp": "2026-06-01T02:00:00-06:00",
+  "corpus_version": "1.1.0",
+  "nodo": "Curador",
+  "tipo_mutacion": "NEW_FACT",
+  "canon_type_pre": null,
+  "canon_type_post": "HARD_CANON",
+  "contenido": "Caps 07-09 generados y aprobados. 5 mercados, geopolítica tripartita, 4 casos ejecutables.",
+  "veredicto": "CANON",
+  "firmado_por": "Curador",
+  "aprobado_por": "Custodio"
+}

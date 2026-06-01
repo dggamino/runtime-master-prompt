@@ -80,3 +80,22 @@ AUDIT_ENTRY {
 ---
 
 *AUDIT_LOG_TEMPLATE v1.0 · RUNTIME MASTER PROMPT · 2026*
+
+---
+
+## SESSION_20260601_001
+
+```json
+{
+  "session_id": "SESSION_20260601_001",
+  "timestamp": "2026-06-01T00:00:00-06:00",
+  "corpus_version": "1.0.1",
+  "nodo": "Curador",
+  "tipo_mutacion": "NEW_FACT",
+  "canon_type_pre": null,
+  "canon_type_post": "PROVISIONAL",
+  "contenido": "compute_ebook_kindle.html · 54858 bytes · 1098 líneas · SHA-256: 2481f9f55996bf88c499df86c77b623be20bf305d05d00893d639e0bdd205978 · Capítulos 1-3 desarrollados · Capítulos 7-9 pendientes",
+  "veredicto": "CANON_CON_AJUSTE",
+  "firmado_por": "Curador",
+  "aprobado_por": "Custodio"
+}

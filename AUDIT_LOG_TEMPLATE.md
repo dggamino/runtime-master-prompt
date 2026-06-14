@@ -136,3 +136,22 @@ AUDIT_ENTRY {
   "firmado_por": "Curador",
   "aprobado_por": "Custodio"
 }
+
+---
+
+## SESSION_20260601_003
+
+```json
+{
+  "session_id": "SESSION_20260601_003",
+  "timestamp": "2026-06-01T09:00:00-06:00",
+  "corpus_version": "1.2.1",
+  "nodo": "Curador",
+  "tipo_mutacion": "TYPE_CHANGE",
+  "canon_type_pre": "PROVISIONAL",
+  "canon_type_post": "HARD_CANON",
+  "contenido": "compute_ebook_kindle.html — 14 capítulos completos verificados. Corrección de estado: todos los capítulos 01-12 + prólogo + epílogo están desarrollados.",
+  "veredicto": "CANON",
+  "firmado_por": "Curador",
+  "aprobado_por": "Custodio"
+}
